@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/typing-turtle/static/css/main.b0b42550.css",
+    "main.js": "/typing-turtle/static/js/main.0d221b88.js",
+    "static/js/453.6725dec1.chunk.js": "/typing-turtle/static/js/453.6725dec1.chunk.js",
+    "static/media/typing-turtle-logo.png": "/typing-turtle/static/media/typing-turtle-logo.71a6ab038899c5d5d83b.png",
+    "index.html": "/typing-turtle/index.html",
+    "main.b0b42550.css.map": "/typing-turtle/static/css/main.b0b42550.css.map",
+    "main.0d221b88.js.map": "/typing-turtle/static/js/main.0d221b88.js.map",
+    "453.6725dec1.chunk.js.map": "/typing-turtle/static/js/453.6725dec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b42550.css",
+    "static/js/main.0d221b88.js"
+  ]
+}
