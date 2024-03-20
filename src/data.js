@@ -1,5 +1,5 @@
 export const PARAGRAPHS = {
-  0: "This is the paragraph that is displayed in the front page!",
+  0: "This is the quote you are typing. To get a new quote, click Refresh.",
   1: "The quick, brown fox jumps over the lazy dog's back.",
   2: "Jackdaws love my big sphinx of quartz.",
   3: "How razorback-jumping frogs can level six piqued gymnasts!",

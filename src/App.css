@@ -1,13 +1,22 @@
+* {
+  font-family: "Cutive Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: -0.2ch;
+  word-spacing: -0.25ch;
+}
+
 .App {
   text-align: center;
   height: 100vh;
   background-color: #282c34;
   color: white;
-  font-size: calc(25px + 2vmin);
+  font-size: calc(15px + 2vmin);
+  padding: calc(5px + 2vmin);
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
 }
 
@@ -46,4 +55,20 @@ button {
 
 .button-pressed {
   background-color: green;
+}
+
+.Timer {
+  min-height: 5vh;
+}
+
+.introduction {
+  font-size: calc(10px + 2vmin);
+}
+
+.hint {
+  font-size: calc(5px + 2vmin);
+}
+
+h1 {
+  margin: 0;
 }
